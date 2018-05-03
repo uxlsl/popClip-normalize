@@ -1,11 +1,9 @@
-# PopClip 的YAPF扩展
+# PopClip 的normalize扩展
 
 ## 安装
 
 ```
 
-pip install yapf
-
-open popclip-yapf.popclipext
+open popclip-normalize.popclipext
 
 ```
