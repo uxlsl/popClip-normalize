@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>After</key>
+			<string>paste-result</string>
+			<key>Script Interpreter</key>
+			<string>/bin/bash</string>
+			<key>Shell Script File</key>
+			<string>yapf.sh</string>
+			<key>Title</key>
+			<string>yapf</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://uxlsl.github.com</string>
+			<key>Name</key>
+			<string>lin.sl.0001</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>yapf python code</string>
+	<key>Extension Identifier</key>
+	<string>com.lin.extension.yapf</string>
+	<key>Extension Name</key>
+	<string>yapf</string>
+	<key>Required Apps</key>
+	<integer>701</integer>
+</dict>
+</plist>
